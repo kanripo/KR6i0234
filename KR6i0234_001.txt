@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:13:36.108100
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:00
 #+TITLE: 十善業道經
 #+PROPERTY: CBETA_ID T15n0600
 #+PROPERTY: ID KR6i0234
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 15, No. 600
 #+PROPERTY: VOL 15
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0234_T_001-0157c> 
 #+PROPERTY: JUAN 1
 ¶
-No.600¶
-
- 《十善業道經》¶
+No. 600¶
+《十善業道經》¶
 ¶
 大唐于闐三藏實叉難陀奉　制譯¶
 
